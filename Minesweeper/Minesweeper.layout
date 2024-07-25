@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="minesweeper.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12295" topLine="369" />
+		</Cursor>
+		<Folding>
+			<Collapse line="824" />
+			<Collapse line="972" />
+			<Collapse line="1065" />
+			<Collapse line="1088" />
+			<Collapse line="1336" />
+			<Collapse line="1453" />
+			<Collapse line="1601" />
+			<Collapse line="1665" />
+			<Collapse line="1703" />
+			<Collapse line="1729" />
+			<Collapse line="1756" />
+			<Collapse line="1784" />
+			<Collapse line="1805" />
+			<Collapse line="1845" />
+			<Collapse line="1884" />
+			<Collapse line="1911" />
+			<Collapse line="1941" />
+			<Collapse line="1971" />
+			<Collapse line="1987" />
+			<Collapse line="2021" />
+			<Collapse line="2043" />
+			<Collapse line="2064" />
+			<Collapse line="2173" />
+			<Collapse line="2197" />
+			<Collapse line="2215" />
+			<Collapse line="2244" />
+			<Collapse line="2316" />
+			<Collapse line="2333" />
+			<Collapse line="2352" />
+			<Collapse line="2371" />
+			<Collapse line="2386" />
+			<Collapse line="2402" />
+			<Collapse line="2418" />
+			<Collapse line="2430" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

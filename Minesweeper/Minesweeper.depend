@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1690487425 source:d:\users\old\estudio de edición\c projects\minesweeper\minesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.c>
+	<string.h>
+	<time.h>
+
